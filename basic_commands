@@ -2,7 +2,7 @@ date - current date
 who - who is using system
 pwd - print working directory
 ls  - print list of files and directories
-cat filename - to see the text in a file
+cat filename - to see the content in a file
 mv - move file one place to another place
 rm - remove a file
 rm -rf dirname  - remove all files and folders in a folder
