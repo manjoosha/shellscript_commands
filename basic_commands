@@ -5,3 +5,7 @@ ls  - print list of files and directories
 cat filename - to see the text in a file
 mv - move file one place to another place
 rm - remove a file
+rm -rf dirname  - remove all files and folders in a folder
+wc filename : count lines, words and characters in a file
+tail -5 filename: print last 5 lines in the file
+head -5 filename: print first 75 lines in the file
