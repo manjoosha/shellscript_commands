@@ -1,0 +1,11 @@
+
+when ever u get this error:
+  unable to modify the permissions and get the error  read only filesystem.
+    check for mount point using umount command.
+    dmesg | grep filesystem(ext): This command will execute all kernel issues.
+		ext3_abort called.
+		EXT3-fs error (device sdb1): ext3_remount: Abort forced by user
+		ext3_abort called.
+		EXT3-fs error (device sdb1): ext3_remount: Abort forced by user
+
+It should be  physical harddisk problem.
