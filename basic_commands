@@ -11,5 +11,5 @@ tail -5 filename: print last 5 lines in the file
 head -5 filename: print first 75 lines in the file
 ps - to see currently running process
 kill pid - to kill any process
-ps -ag : print all running process
+ps -aux : print all running process
 kill 0 : to stop all process except your shell
